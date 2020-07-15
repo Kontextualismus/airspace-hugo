@@ -78,7 +78,7 @@ weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-description = "This is meta description"
+description = "Test"
 email = "demo@email.com"
 google_analitycs_id = ""
 location = "North Main Street,Brooklyn Australia"
@@ -86,7 +86,7 @@ logo = "images/logo.png"
 mobile = "0124857985320"
 multi_author = false
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -121,20 +121,8 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
+icon = "ion-social-instagram-outline"
+link = ""
 [[params.social]]
 icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
 link = "#"
