@@ -1,5 +1,5 @@
 +++
-bg_image = ""
+bg_image = "/images/20191116-dsc00674.jpg"
 description = "Jo bro, was geht"
 title = "Unterricht"
 
